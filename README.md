@@ -49,3 +49,13 @@ Dashboard for analyzing business data.
 ---
 
 ⭐ Always learning and building new projects.
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 📊 GitHub Stats
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngMohammedJoba&show_icons=true&theme=tokyonight)
