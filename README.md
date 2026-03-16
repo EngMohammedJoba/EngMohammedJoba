@@ -82,7 +82,6 @@ Dashboard for analyzing business data.
 
 ![snake gif](https://github.com/EngMohammedJoba/EngMohammedJoba/blob/output/github-contribution-grid-snake.svg)
 
-
 ## 📊 3D Contribution Graph
 
 ![](https://raw.githubusercontent.com/EngMohammedJoba/EngMohammedJoba/main/profile-3d-contrib/profile-night-rainbow.svg)
