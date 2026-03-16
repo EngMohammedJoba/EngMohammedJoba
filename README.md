@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammed Sultan
 
-<!--
-**EngMohammedJoba/EngMohammedJoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring **Data Analyst and AI Developer** passionate about turning data into insights and building intelligent systems.
 
-Here are some ideas to get you started:
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 👁 Computer Vision
+- 📈 Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+💻 Programming  
+- Python
+- SQL
+
+📊 Data Analysis  
+- Pandas
+- NumPy
+- Excel
+- Power BI
+
+🤖 Machine Learning  
+- Scikit-learn
+- TensorFlow
+
+---
+
+## 📂 Featured Projects
+
+🔹 Face Recognition System  
+Computer vision system that detects and recognizes faces.
+
+🔹 Medical AI Assistant  
+AI project for helping analyze medical data.
+
+🔹 Data Analysis Dashboard  
+Dashboard for analyzing business data.
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: coming soon
+- Email: coming soon
+
+---
+
+⭐ Always learning and building new projects.
