@@ -44,7 +44,7 @@ Dashboard for analyzing business data.
 ## 📫 Contact Me
 
 - LinkedIn: coming soon
-- Email: coming soon
+- Email: mohamed0sultan090@gmail.com
 
 ---
 
