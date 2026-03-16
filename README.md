@@ -59,9 +59,6 @@ Dashboard for analyzing business data.
 
 ⭐ Always learning and building new projects.
 
----
-
-## 📊 GitHub Stats
 
 ---
 
