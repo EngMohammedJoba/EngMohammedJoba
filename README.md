@@ -62,6 +62,8 @@ Dashboard for analyzing business data.
 
 ---
 
-## 💻 Top Languages
+## 🚀 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngMohammedJoba&layout=compact&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,python,java,php,git,github,vscode" />
+</p>
