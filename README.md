@@ -71,3 +71,8 @@ Dashboard for analyzing business data.
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,python,java,php,git,github,vscode" />
 </p>
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/EngMohammedJoba/EngMohammedJoba/blob/output/github-contribution-grid-snake.svg)
