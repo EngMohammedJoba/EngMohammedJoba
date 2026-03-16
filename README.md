@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+Enthusiast;Python+Developer;Machine+Learning+Engineer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-# Hi 👋 I'm Mohammed Sultan
-
 ## 🚀 About Me
 Aspiring **Data Analyst and AI Developer** passionate about turning data into insights and building intelligent systems.
 
