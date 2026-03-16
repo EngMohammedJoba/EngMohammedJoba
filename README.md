@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Mohammed Sultan</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+Enthusiast;Python+Developer;Machine+Learning+Engineer;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
 # Hi 👋 I'm Mohammed Sultan
 
 ## 🚀 About Me
