@@ -59,3 +59,9 @@ Dashboard for analyzing business data.
 ## 📊 GitHub Stats
 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngMohammedJoba&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngMohammedJoba&layout=compact&theme=tokyonight)
